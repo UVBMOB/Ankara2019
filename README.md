@@ -2,17 +2,17 @@
 3. hafta için ödev
 titanic verisetinde her column için:
 
-count
-sum
-mean
-median
-mode
-std
-min max
-abs
-prod
-cumsum
-cumprod
+* count
+* sum
+* mean
+* median
+* mode
+* std
+* min max
+* abs
+* prod
+* cumsum
+* cumprod
 
 bulunacak
 
