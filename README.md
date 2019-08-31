@@ -1,6 +1,7 @@
 # Ankara2019
 3. hafta için ödev
-titanic verisetinde her column için:
+
+Banka verisetinde her column için:
 
 * count
 * sum
